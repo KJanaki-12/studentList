@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/studentList/static/css/main.b070dd81.css",
+    "main.js": "/studentList/static/js/main.dfeb8788.js",
+    "index.html": "/studentList/index.html",
+    "main.b070dd81.css.map": "/studentList/static/css/main.b070dd81.css.map",
+    "main.dfeb8788.js.map": "/studentList/static/js/main.dfeb8788.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b070dd81.css",
+    "static/js/main.dfeb8788.js"
+  ]
+}
