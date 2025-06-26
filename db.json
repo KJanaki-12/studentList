@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "22",
+      "name": "RamaRaju",
+      "place": "Adoni",
+      "phone": "9911556622"
+    },
+    {
+      "id": "3",
+      "name": "pandu",
+      "place": "uty",
+      "phone": "9988776655"
+    },
+    {
+      "id": "219X10430",
+      "name": "K. PUSPAVATHI",
+      "place": "Yemmiganur",
+      "phone": "6305222513"
+    },
+    {
+      "id": "219X10222",
+      "name": "KENCHUGUNDU JANAKI",
+      "place": "Yemmiganur",
+      "phone": "9966773344"
+    }
+  ]
+}
